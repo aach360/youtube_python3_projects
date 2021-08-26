@@ -1,3 +1,4 @@
+# Find the oodd number out in the list and return its index ex: [7, 7, 7, 8, 7, 7, 7, 7] 8 is the odd number
 def stray(arr):
     for x in arr:
         if arr.count(x) == 1:

@@ -1,3 +1,4 @@
+# give the indexes of all vovels in a string
 def vowel_indices(word):
     fin = []
     out = 1

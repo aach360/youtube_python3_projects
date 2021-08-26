@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button {
+  margin: 10rem;
+  padding: 2rem 4rem;
+  background: none;
+  border: 0.2rem transparent greenyellow;
+  color: red;
+  font-size: 3 rem;
+  border-radius: 1rem;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+a {
+  display: block;
+}
+html,
+body {
+  height: 100%;
+}
+/*.container {
+    content: url(/github/youtube_python3_projects/Izpyua\\(1\).jpg);
+    width: 828px;
+    height: 510px;
+    margin: auto;
+    position: relitive;
+  } */
+.container {
+  background-image: linear-gradient(to right, white, rgb(4, 122, 222));
+  width: 90%;
+  height: 90%;
+  margin: auto;
+  position: relative;
+}
+.box1,
+.box2,
+.box3,
+.box4 {
+  width: 20%;
+  height: 20%;
+  background: lavender;
+}
+.box1 {
+  background: rgb(242 80 34);
+  position: absolute;
+  bottom: 60%;
+  left: 30%;
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  padding: 3rem;
+  font-size: x-large;
+}
+.box2 {
+  position: absolute;
+  background: rgb(127 186 0);
+  bottom: 60%;
+  left: 51%;
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  padding: 3rem;
+  font-size: x-large;
+}
+.box3 {
+  position: absolute;
+  background: rgb(0 164 239);
+  bottom: 39%;
+  left: 30%;
+  width: 20%;
+  margin: auto;
+  padding: 3rem;
+  text-align: center;
+  font-size: x-large;
+}
+.box4 {
+  position: absolute;
+  background: rgb(255 185 0);
+  bottom: 39%;
+  left: 51%;
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  padding: 3rem;
+  font-size: x-large;
+}
+h1 {
+  color: rgb(115 115 115);
+  padding-left: 15rem;
+  padding-top: 25rem;
+  font-size: 50px;
+}

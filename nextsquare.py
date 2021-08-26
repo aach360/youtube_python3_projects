@@ -1,3 +1,4 @@
+#given a specific number, determine wether it is a square number or not and find the nest closest square
 import math
 def find_next_square(sq):
     sqrt = math.sqrt(sq)

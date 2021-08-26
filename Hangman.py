@@ -12,7 +12,7 @@ if food == "sandwich":
          if food2 == "sandwich":
             print("You returned back to your home. YOU WON!")
          elif food2 == "soda":
-            print("You were poisend")
+            print("You were poisend. LEARN FROM YOUR MISTAKES!")
          else:
             print("Invalid input. You lost")
       elif dir == "left":

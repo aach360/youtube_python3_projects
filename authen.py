@@ -1,9 +1,3 @@
-'''
-login or sgin up
-store sign up username and password 
-go back
-allow to login or try again w/ attempts
-'''
 sign = input("sign up y/n: ")
 if sign == "y":
     user = input("Create Username: ")

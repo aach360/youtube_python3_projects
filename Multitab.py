@@ -14,10 +14,10 @@ This string format:
 '''
 def multi_table(number):
     x = 1
-    while x != 11:
+    while x != 13:
         sol = x * number
         print(f"{x} * {number} = {sol}")
         x = x+1
         if x == 11:
             break 
-multi_table (1678)
+multi_table (13)

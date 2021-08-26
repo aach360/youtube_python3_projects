@@ -2,6 +2,7 @@
 def solution(s):
     x=1
     a=2
+    fin = []
     lenth=len(s)
     if lenth % 2 != 0:
         s=s+"_"

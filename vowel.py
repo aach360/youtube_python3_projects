@@ -1,3 +1,4 @@
+#count the number of vovels in a string
 def get_count(input_str):
     num_vowels = 0
     for x in input_str:

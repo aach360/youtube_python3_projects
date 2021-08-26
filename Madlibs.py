@@ -1,0 +1,6 @@
+prop1 = input("Proper Noun: ")
+react1 = input("Reaction: ")
+noun = input("Noun: ")
+prop2 = input("Proper Noun: ")
+react2 =  input("Reaction: ")
+input(f"{prop1} walked down the stairs and was {react1} to see a {noun}. \n He asked {prop2} what it was and they said that they didn't know. \n The news spread about it and everybody was {react2} to hear about it.")
